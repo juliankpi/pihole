@@ -1,1 +1,6 @@
 app-measurement.com
+ssl.google-analytics.com
+e.crashlytics.com
+settings.crashlytics.com
+www.google-analytics.com
+mobile.pipe.aria.microsoft.com
